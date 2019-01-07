@@ -1,1 +1,1 @@
-web: gunicorn auth_proj:app
+web: gunicorn auth_app:app
