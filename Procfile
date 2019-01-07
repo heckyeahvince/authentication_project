@@ -1,1 +1,1 @@
-web: index.html
+web: gunicorn auth_proj.wsgi
