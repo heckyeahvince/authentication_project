@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Password reset on localhost:8000
+From: webmaster@localhost
+To: paul.abe@fdmgroup.com
+Date: Mon, 07 Jan 2019 06:41:51 -0000
+Message-ID: <154684331154.27050.16686638783682645382@1.0.0.127.in-addr.arpa>
+
+
+You're receiving this email because you requested a password reset for your user account at localhost:8000.
+
+Please go to the following page and choose a new password:
+
+http://localhost:8000/accounts/reset/MQ/52s-3e16e812295e0bc7a4e3/
+
+Your username, in case you've forgotten: paul.abe
+
+Thanks for using our site!
+
+The localhost:8000 team
+
+
+
+-------------------------------------------------------------------------------
