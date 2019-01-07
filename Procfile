@@ -1,1 +1,1 @@
-web: gunicorn auth_proj.wsgi
+web: gunicorn auth_app.app
